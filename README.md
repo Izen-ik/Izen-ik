@@ -1,3 +1,3 @@
-# Selected Engineered Synth Works 24–x
+# Selected Engineered Works 24–x
 
 C++ · JUCE · DSP · Audio Software
